@@ -1,1 +1,4 @@
 # Bigman
+
+Skills 
+💻 Lua
